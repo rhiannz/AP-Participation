@@ -15,7 +15,7 @@ We began
 
 
 Then after imputing some missing observations and dropping repetitive columns, we created ended up with a nice, clean dataframe, as seen below.  
-![msno_complete](/assets/images/msno_complete.png) 
+![msno_complete](../../assets/images/msno_complete.png) 
 
 
 
