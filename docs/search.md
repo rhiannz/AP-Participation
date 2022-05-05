@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Exploratory Data Analysis 
-nav_order: 5
+title: Extra page! 
+nav_exclude: true
 ---
