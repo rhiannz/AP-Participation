@@ -7,7 +7,7 @@ nav_order: 2
 # Data Collection & Cleaning 
 
 ## Data Collection 
-We began 
+We began
 
 
 ## Data Availability and Bias 
