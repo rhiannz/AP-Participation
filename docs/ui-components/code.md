@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Feature Selection
+title: Linear Regressions 
 parent: Modeling
 nav_order: 2
 ---
 
-# Backwards Stepwise Linear Regression 
+## Feature Selection 
+
+### Backwards Stepwise Linear Regression  
+
+
+## Our Chosen Model's Results 
