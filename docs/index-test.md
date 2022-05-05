@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: Exploratory Data Analysis 
 nav_order: 3
 ---
 
