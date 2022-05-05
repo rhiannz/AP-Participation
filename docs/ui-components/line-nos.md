@@ -3,6 +3,7 @@ layout: default
 title: Code with line numbers
 parent: Code
 grand_parent: UI Components
+nav_exclude: true
 permalink: /docs/ui-components/code/line-numbers/
 ---
 
