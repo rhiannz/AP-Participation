@@ -7,5 +7,7 @@ permalink: /docs/ui-components
 ---
 
 # Modeling 
+{: .no_toc }
+
 {: .fs-6 .fw-300 }
 
