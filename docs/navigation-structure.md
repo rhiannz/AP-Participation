@@ -8,12 +8,6 @@ nav_order: 4
 # Exploratory Data Analysis with Maps
 
 
-### AP Exam Participation Percentages by Race and Year  
-
-![PctParticipation](../../assets/images/PctParticipation.png)
-
-Above, we can see ???
-
 **Insert images of the races here and add a description 
 
 
