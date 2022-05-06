@@ -28,8 +28,11 @@ We read in the 8 different datasets using API’s. Once this was done we subsett
 
 ![missing_no_unclean](../../assets/images/missing_no_unclean.png) 
 
-It should be noted that there were some schools in California that did not report their AP Exam enrollment. For the sake of our analysis and modeling we removed these NA values giving us about ⅓ of the total California schools. We acknowledge that this may introduce a bias. We explored what type of specific schools may be more likely to report their AP Exam Enrollment and we found that the schools the tend to report these numbers are usually from the following category: 
+It should be noted that there were some schools in California that did not report their AP Exam enrollment. For the sake of our analysis and modeling we removed these NA values giving us about ⅓ of the total California schools. We acknowledge that this may introduce a bias. We explored what type of specific schools may be more likely to report their AP Exam Enrollment and we found that the schools that tend to report these numbers are usually from the following category: 
 
+- They have a higher total salary for all the workers. 
+- Generally they are larger schools 
+- These schools tend to have higher rates of SAT & ACT student participation 
 
 
 
