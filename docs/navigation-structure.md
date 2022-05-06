@@ -15,8 +15,8 @@ For our first set of maps we display below, we wanted to depict the percentage o
 
 
 <p float="left">
-  <img src="../../assets/images/white_map.png" width="350" height="450"/>
-  <img src="../../assets/images/black_map.png" width="350" height="450"/> 
+  <img src="../../assets/images/white_map.png" width="550" height="650"/>
+  <img src="../../assets/images/black_map.png" width="550" height="650"/> 
 </p>
 
 *Insert analysis of the maps and the trends that we see here!!!
