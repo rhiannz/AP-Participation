@@ -35,11 +35,8 @@ It should be noted that there were some schools in California that did not repor
 - These schools tend to have higher rates of SAT & ACT student participation 
 
 
+We then cleaned our data set. Since our goal was to determine which factors influenced AP Examination Enrollment and we had a significant amount of variables, we decided it was necessary to drop some columns that were insignificant. We used a correlation matrix and used a cut off of about 0.1 in order to determine if we should keep specific variables or not. Finally we imputed some missing observations. As we can see the number of columns from the previous matrix to the one below significantly decreased. This is because the data was collected for each individual race and sex at these schools. So, in order to reduce the number of columns and easily conduct analysis we created new columns for these demographics allowing us to significantly reduce the size of our dataframe. We then end up with the following clean dataframe, as seen below.  
 
-
-*Rhiann talks about the cleaning of the data set* 
-
-Then after imputing some missing observations and dropping repetitive columns, we created ended up with a nice, clean dataframe, as seen below.  
 ![msno_complete](../../assets/images/msno_complete.png) 
 
 
