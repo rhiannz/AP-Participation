@@ -8,7 +8,7 @@ nav_order: 3
 
 ### Correlation Matrix of our Cleaned Dataset 
 
-![complete_correlation](../../assets/images/complete_correlation.png)
+![completed_correlation](../../assets/images/completed_correlation.png)
 
 (Note: `AP_oneormore_relative` is the percent of students who took one or more AP Exam while `students_AP_exam_oneormore` is the number of student who took one or more AP Exam ) 
 
@@ -21,8 +21,7 @@ Here we can see the correlation matrix of our completed data. We can see how AP 
 
 ![PctParticipation](../../assets/images/PctParticipation.png)
 
-Above, we can see the average AP Exam participation rates by race and year. There is a general increase in exam participation throughout the years. Most notably, Asian students have the highest ds dsnkl
-
+Above, we can see the average AP Exam participation rates by race and year. Most notably, Asian students have the highest AP Exam participation rates, by far. However, when looking at the rest of the student body, there are rather similar partipation rates. We should also note that there is a general increase in exam participation throughout the years. 
 
 ### School Population by Race and Year 
 
