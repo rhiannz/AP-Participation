@@ -20,7 +20,7 @@ We began by collecting our data from the Urban Institute Education Data Portal. 
 - School Finance 
 - AP, IB, and GT Enrollment 
 
-Our main focus was on the table that contained AP Examination data as this is our main variable in question. With the other 8 datasets we had a total of 40 different variables once they where compiled together. 
+Our main focus was on the table that contained AP Examination data as this is our main variable in question. With the other 8 datasets we had a large number of different variables once they where compiled together. 
 
 ## Data Cleaning and Bias 
 
@@ -39,5 +39,14 @@ We then cleaned our data set. Since our goal was to determine which factors infl
 
 ![msno_complete](../../assets/images/msno_complete.png) 
 
+*Clarifying Ambiguous Variable Names 
+
+| Variable Name        | Description   | 
+| ------------- |:-------------:| 
+| ncessch      | school ID number | 
+| students_AP_exam_none      | number of students that didn't take any AP Exams     |   
+| students_AP_exam_oneormore | number of students that took atleast one AP Exam     |  
+|AP_oneormore_relative      | % of students that took an AP Exam at the school |
+|enrl_AP | % of students enrolled in AP classes at the school |
 
 
