@@ -39,7 +39,7 @@ We then cleaned our data set. Since our goal was to determine which factors infl
 
 ![msno_complete](../../assets/images/msno_complete.png) 
 
-*Clarifying Ambiguous Variable Names 
+*Clarifying Ambiguous Variable Names*
 
 | Variable Name        | Description   | 
 | ------------- |:-------------:| 
