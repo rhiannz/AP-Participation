@@ -13,8 +13,8 @@ nav_order: 3
 
 ![PctParticipation](../../assets/images/PctParticipation.png)
 
-Since our data Above, we can see the average AP Exam participation by Race and Year. We 
-Most notably, Asian students have the highest 
+Above, we can see the average AP Exam participation by Race and Year. We 
+Most notably, Asian students have the highest ds dsnkl
 
 
 ### School Population by Race and Year 
