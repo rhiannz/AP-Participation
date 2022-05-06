@@ -7,11 +7,14 @@ nav_order: 3
 # Exploratory Data Analysis 
 
 
+
+
 ### AP Exam Participation Percentages by Race and Year  
 
 ![PctParticipation](../../assets/images/PctParticipation.png)
 
-Above, we can see ???
+Since our data Above, we can see the average AP Exam participation by Race and Year. We 
+Most notably, Asian students have the highest 
 
 
 ### School Population by Race and Year 
