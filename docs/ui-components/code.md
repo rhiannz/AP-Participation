@@ -23,7 +23,7 @@ Above, we see the
 
 Our best model: 
 
-    AP_oneormore_relative = avg_teacher_salary + Pct_Asian + enrl_AP + enrl_AP_science + 
+    AP_oneormore_relative ~ avg_teacher_salary + Pct_Asian + enrl_AP + enrl_AP_science + 
                             enrl_AP_science + students_SAT_ACT + students_chronically_absent 
 
 
