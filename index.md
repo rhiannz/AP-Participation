@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Analyzing School Characteristics in AP Exam Participation in Californian Schools
+# Analyzing School Characteristics in relation to AP Exam Participation in California
 #### by Meera Duggal and Rhiann Zhang
 
 ![ap](assets/images/ap.png) 
