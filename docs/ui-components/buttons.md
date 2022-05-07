@@ -7,7 +7,7 @@ nav_order: 1
 
 # Entity-Demeaned Fixed Effect Regression 
 
-Since we have panel data, we utilized a fixed effect model to determine which of our features can best explain AP Exam particapation rates. More specifically, we used an entity-demean ordinary least squares model, which can be explained as follows:  
+Since we are using panel data, we implemented a fixed effect model to determine which of our features can best explain AP Exam particapation rates. More specifically, we used an entity-demean ordinary least squares model, which can be explained as follows:  
 
 
 ![fixed_effect](../../../assets/images/fixed_effect.png)
