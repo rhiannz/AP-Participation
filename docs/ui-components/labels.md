@@ -13,7 +13,7 @@ We saw in the previous section that our linear regression model failed to perfor
 We first ran our random forest with the default parameters, but we found that our model was overfitting quite a bit giving us a testing R² of 0.7 and a training value of around 0.3. So, in order to reduce overfitting we used 10 fold cross-validation with a grid search to determine the optimal parameters that should be used in our random forest regression. We used the negative mean squared error in order to determine the accuracy of our models. Our results from this cross validation grid search were the following: 
 
 <p align="center">
-  <img src="../../../assets/images/CV_grid_output.png" width="200" height="75">
+  <img src="../../assets/images/CV_grid_output.png" width="200" height="75">
 </p>
 
 
@@ -22,7 +22,7 @@ Here we see that even with cross validation and the grid search our model is unf
 In the image below the red line represents the actual y value and the blue line represents the predicted y value. The x-axis is the y value that is being estimated from the model using a fixed effect. 
 
 <p align="center">
-<img src="../../../assets/images/accuracy_density.png" width="300" height="450">
+<img src="../../assets/images/accuracy_density.png" width="300" height="450">
 </p>
 
 Here we see that the model is having a hard time accounting for the variation on the left and right side, causing there to be a large amount of values to be estimated as zero, or exactly the mean. 
