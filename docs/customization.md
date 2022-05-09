@@ -39,6 +39,6 @@ Here is a quick glance at AP Exam enrollment in relation to student participatio
 
 ![discipline_boxplots](../../assets/images/discipline_boxplots.png)
 
-Here we get an overview of student misbehavior and the disciplinary actions taking place in each school against AP Exam participation. We can see that the distibutions of the features concerning student misbehavior and disciplinary action are much smaller than the distribution of AP Exam participation, which is good news since we would hope that less students are being suspended or arrested. 
-
-We must also note the unexpectedly large range of the boxplot detailing the percent of chronically absent students. This is most likely due to the inconsistencies found throughout our data, as mentioned in the previous "Data Collection & Cleaning" section. These discrepancies may be affecting our other exploratory data visualizations and our future modeling as well. 
+Here we get an overview of student misbehavior and the disciplinary actions taking place in each school against AP Exam participation. We can see that the distributions of the features concerning student misbehavior and disciplinary action are much smaller than the distribution of AP Exam participation, which is good news since we would hope that fewer students are being suspended or arrested. 
+ 
+We must also note the unexpectedly large range of the boxplot detailing the percentage of chronically absent students. This is most likely due to the inconsistencies found throughout our data, as mentioned in the previous "Data Collection & Cleaning" section. These discrepancies may be affecting our other exploratory data visualizations and our future modeling as well. 
