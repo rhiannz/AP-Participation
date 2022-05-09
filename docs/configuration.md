@@ -35,7 +35,9 @@ It should be noted that there were some schools in California that did not repor
 - These schools tend to have higher rates of SAT & ACT student participation 
 
 
-We then cleaned our data set. Since our goal was to determine which factors influenced AP Examination enrollment and we had a significant amount of variables, we decided it was necessary to drop some columns that were insignificant. We used a correlation matrix and removed variables that had a correlation between -0.1 and 0.1. Finally we imputed the missing observations. As we can see, the number of rows in our final matrix significantly decreased compared to the matrix above. This is because the data was collected for each individual race and sex at these schools. So, in order to reduce the number of columns and easily conduct analysis, we created new columns for these demographics allowing us to significantly reduce the size of our dataframe. We then end up with the following clean dataframe:  
+We then cleaned our data set. It should be noted that during out data cleaning process we found multiple discrepancies in the values reported across the different data sets. We adjusted these numbers in order to make them computationally viable. However, these altered values may not reflect reality and may possibly impact our future analysis. 
+
+Since our goal was to determine which factors influenced AP Examination enrollment and we had a significant amount of variables, we decided it was necessary to drop some columns that were insignificant. We used a correlation matrix and removed variables that had a correlation between -0.1 and 0.1. Finally, we imputed the missing observations. As we can see, the number of rows in our final matrix significantly decreased compared to the matrix above. This is because the data was collected for each individual race and sex at these schools. So, in order to reduce the number of columns and easily conduct analysis, we created new columns for these demographics allowing us to significantly reduce the size of our dataframe. We then end up with the following clean dataframe:  
 
 ![msno_complete](../../assets/images/msno_complete.png) 
 
