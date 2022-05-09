@@ -37,3 +37,6 @@ Conclusion:
 Of course, there is always room for improvement and researchers are still struggling to properly explain __ and determine policies that will amelorate __ 
 
 We hope that future research will allow all student the right support and resources they need to reach their goals. 
+
+
+![completed](../../assets/images/completed.png)
