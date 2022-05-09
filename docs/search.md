@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Extra page! 
-nav_exclude: true
+title: References
+nav_order: 7 
 ---
 
+1. bloo blah blee blap 
