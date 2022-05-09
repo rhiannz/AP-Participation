@@ -14,4 +14,4 @@ Every year, millions of students take AP Exams in over 30 different subjects. Th
 
 Therefore, the main goal of our project is to answer the following question: **Which characteristics of Californian schools are able to best explain student participation in AP Exams?** 
 
-Answering this question will allow us to grant policy makers insight as to how to effectively encourage AP Exam Participation by understanding what factors to focus on as well as which communities should be addressed more urgently. 
+Answering this question will allow us to grant policy makers insight as to how to effectively encourage AP Exam participation by understanding what factors to focus on as well as which communities should be addressed more urgently. 
