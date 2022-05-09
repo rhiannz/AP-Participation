@@ -30,7 +30,7 @@ Here we see that the model is having a hard time accounting for the variation on
 Even though this model performs poorly when trying to predict for a new area, we can say that these features (in the image below) accurately explain the high AP Exam Enrollment in 1/3 of the schools in California. Here we see the feature importance for our random forest model. 
 
 <p align="center">
-<img src="../../assets/images/feature_importance.png" width="550" height="650">
+<img src="../../../assets/images/feature_importance.png" width="550" height="650">
 </p>
   
 Based on the feature importance above we see that `enrl_AP` (the number of students enrolled in an AP course) explains the number of AP exams that will be taken at the school the most. This seems fairly intuitive, but some of the other features that are said to be important are fairly interesting, such as the number of students that take the SAT and ACT, the average teaching salary, and the percent of Asians at a specific school. We were unable to come up with a model that could be generalized to all schools in California, but the insight that we gained from the EDA and modeling still proves to be interesting.
