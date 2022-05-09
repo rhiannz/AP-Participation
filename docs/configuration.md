@@ -43,10 +43,40 @@ We then cleaned our data set. Since our goal was to determine which factors infl
 
 | Variable Name        | Description   | 
 | ------------- |:-------------:| 
-| ncessch      | school ID number | 
-| students_AP_exam_none      | number of students that didn't take any AP Exams     |   
-| students_AP_exam_oneormore | number of students that took atleast one AP Exam     |  
-|AP_oneormore_relative      | % of students that took an AP Exam at the school |
-|enrl_AP | % of students enrolled in AP classes at the school |
+| `ncessch`      | school ID number | 
+| `students_AP_exam_none`      | number of students that didn't take any AP Exams     |   
+| `students_AP_exam_oneormore` | number of students that took atleast one AP Exam     | 
+|`latitude` | the latitude of the specific school|
+|`longitude`| the longitude of the specific school | 
+| `enrollment` | the number of students enrolled in that specific schoool |
+|`school_name` | the name of the school |
+|`AP_oneormore_relative`      | % of students that took an AP Exam at the school |
+|`teachers_per_student` | the # of teachers per student | 
+|`security_guards_per_students` | the # of security guards per student | 
+|`avg_teacher_salary` | the average teacher salary |
+| `%Asian` | % of Asian students|
+|`%Black` | % of Black students|
+|`%Hispanic` | % of Hispanic students|
+|`%Indigenous American`| % Indigenous American students|
+|`%Multiracial` | % of Multiracial students|
+|`%Pacific Islander` | % of Pacific Islander students| 
+|`%White` | % of White students |
+|`%Female`| % of Female students|
+|`%Male`| % of Male students|
+|`enrl_AP` | % of students enrolled in AP classes |
+|`enrl_AP_science` | % of students enrolled in AP science classes |
+|`enrl_AP_math` | % of students enrolled in AP math classes |
+|`enrl_AP_other` | % of students enrolled in other AP classes |
+|`enrl_gifted_talented` | % of students enrolled in gifted and talented classes |
+|`students_SAT_ACT` | % of students that took the SAT or ACT |
+|`students_chronically_absent` | % of students that are chronically absent |
+|`students_report_harass_dis` | % of students harassed or bullied on the basis of disability|
+|`students_susp_in_school`| % of students who received an in-school suspensions|
+|`students_susp_out_sch_single' | % of students who received an out of school suspension|
+|`students_susp_out_sch_multiple` | % of students who recieved multiple out of school suspensions|
+|`students_arrested` | % of students arrested |
+|`avg_teacher_salary_1K` | average teacher salary in thousands| 
+
+
 
 
