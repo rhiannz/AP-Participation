@@ -72,7 +72,7 @@ We then cleaned our data set. Since our goal was to determine which factors infl
 |`students_chronically_absent` | % of students that are chronically absent |
 |`students_report_harass_dis` | % of students harassed or bullied on the basis of disability|
 |`students_susp_in_school`| % of students who received an in-school suspensions|
-|`students_susp_out_sch_single' | % of students who received an out of school suspension|
+|`students_susp_out_sch_single` | % of students who received an out of school suspension|
 |`students_susp_out_sch_multiple` | % of students who recieved multiple out of school suspensions|
 |`students_arrested` | % of students arrested |
 |`avg_teacher_salary_1K` | average teacher salary in thousands| 
