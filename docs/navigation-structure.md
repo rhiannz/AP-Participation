@@ -15,10 +15,13 @@ For our first set of maps we display below, we wanted to depict the percentage o
 
 
 <p float="center">
-  <img src="../../assets/images/White_Black.png" />
-  <img src="../../assets/images/Asian_Hispanic.png" /> 
+  <img src="../../assets/images/White-Black.png" />
+  <img src="../../assets/images/Asian-Hispanic.png" /> 
 </p>
 
-*Insert analysis of the maps and the trends that we see here!!!
+
+Here we can see that both the Black and Asian population tend to cluster in the more populated city areas, were as both the Hispanic and White population are spread throughout most of California. There doesn't seem to be an apparent trend both the maps depicting White and Black students. That being said, in the maps that displays both the Asian and Hispanic population it seems like The darker color dots are more apparent due to them having a larger size. This could make one think that in schools with a large Asian and Hispanic population they have a large AP exam participation. 
+
+
 
 ***Insert the moving maps here with the descriptions !!!! 
